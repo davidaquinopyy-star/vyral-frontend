@@ -32,3 +32,5 @@ Usá únicamente la publishable key (o anon key legacy) en el frontend. Nunca ag
 
 ## Estado del producto
 El acceso con Supabase Auth y la navegación del dashboard están implementados. Los módulos de análisis y generación se muestran como preparación inicial hasta conectar proveedores de datos sociales y funciones backend. No se simulan métricas ni resultados de IA.
+
+La compilación se valida automáticamente con GitHub Actions en cada push a `main`.
