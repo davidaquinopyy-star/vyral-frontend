@@ -2,8 +2,8 @@ import { useEffect, useState } from 'react'
 import type { FormEvent } from 'react'
 import type { Session } from '@supabase/supabase-js'
 import {
-  Activity, ArrowDownRight, ArrowUpRight, AudioWaveform, BarChart3, Bell,
-  CalendarDays, Check, ChevronDown, CircleHelp, Clapperboard, Command,
+  Activity, ArrowUpRight, AudioWaveform, BarChart3, Bell,
+  CalendarDays, ChevronDown, CircleHelp, Clapperboard, Command,
   Compass, CreditCard, FileText, Flame, Gauge, LayoutDashboard, Lightbulb,
   LogOut, Menu, Plus, Search, Settings, ShieldCheck, Sparkles, Target,
   TrendingUp, WandSparkles, X, Zap,
